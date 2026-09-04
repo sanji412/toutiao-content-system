@@ -85,3 +85,8 @@
 - [试点六段式提纲](examples/pilot-outline.md)
 - [试点文章与五种标题](examples/pilot-article.md)
 - [试点审稿与发布审计](examples/pilot-audit.md)
+- [ARTICLE-001 v2 成品](examples/pilot-article-v2.md) 与 [v2 审稿记录](examples/pilot-audit-v2.md)
+
+### 生产文章草稿（按篇归档）
+
+- [ARTICLE-002：全家一起休息先排进周末](articles/ARTICLE-002/article.md)，含[来源包](articles/ARTICLE-002/source-pack.md)、[提纲](articles/ARTICLE-002/outline.md)与[审稿记录](articles/ARTICLE-002/audit.md)。后续文章沿用 `articles/ARTICLE-NNN/` 目录结构。

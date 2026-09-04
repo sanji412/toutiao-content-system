@@ -1,2 +1,3 @@
 article_id,publish_date,category,core_conflict,card_ids,title,title_type,opening_type,character_count,status,source_count,impressions_24h,reads_24h,reads_72h,click_rate_24h,avg_read_time_24h,completion_rate_24h,comments_24h,follows_24h,diagnosis,next_action
-ARTICLE-001,,money_life,开学清单被"别人家都有"的参照悄悄扩容：说不清"为什么买"的项混进清单，家庭决定权外流,CARD-001,开学清单里，最难说清的是“别人家孩子都有”,counterintuitive,common_situation,1687,drafted,2,,,,,,,,,,v2 定稿（反常识型标题）待发布；发布后补录真实平台数据并复盘标题与开头
+ARTICLE-001,,money_life,"开学清单被""别人家都有""的参照悄悄扩容：说不清""为什么买""的项混进清单，家庭决定权外流",CARD-001,开学清单里，最难说清的是“别人家孩子都有”,counterintuitive,common_situation,1687,drafted,2,,,,,,,,,,v2 定稿（反常识型标题）待发布；发布后补录真实平台数据并复盘标题与开头
+ARTICLE-002,,family_relationships,共同休息从没被排进日程：任务填满缝隙，一家人同时空闲的时段最难凑齐,CARD-002,一家人的休息，不该等家务做完才轮得到,counterintuitive,common_situation,1688,drafted,1,,,,,,,,,,待发布；发布后补录真实平台数据并复盘标题与开头
