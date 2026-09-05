@@ -89,4 +89,6 @@
 
 ### 生产文章草稿（按篇归档）
 
-- [ARTICLE-002：全家一起休息先排进周末](articles/ARTICLE-002/article.md)，含[来源包](articles/ARTICLE-002/source-pack.md)、[提纲](articles/ARTICLE-002/outline.md)与[审稿记录](articles/ARTICLE-002/audit.md)。后续文章沿用 `articles/ARTICLE-NNN/` 目录结构。
+- [ARTICLE-002：全家一起休息先排进周末](articles/ARTICLE-002/article.md)，含[来源包](articles/ARTICLE-002/source-pack.md)、[提纲](articles/ARTICLE-002/outline.md)与[审稿记录](articles/ARTICLE-002/audit.md)。
+- [ARTICLE-003：成绩出来那天，谈话不只围着分数](articles/ARTICLE-003/article.md)，含[来源包](articles/ARTICLE-003/source-pack.md)、[提纲](articles/ARTICLE-003/outline.md)与[审稿记录](articles/ARTICLE-003/audit.md)。
+- 后续文章沿用 `articles/ARTICLE-NNN/` 目录结构。
