@@ -95,3 +95,7 @@
 - [ARTICLE-005：比完薪资和头衔，为什么没人比通勤？](articles/ARTICLE-005/article.md)，含[来源包](articles/ARTICLE-005/source-pack.md)、[提纲](articles/ARTICLE-005/outline.md)与[审稿记录](articles/ARTICLE-005/audit.md)。
 - [ARTICLE-006：家里那辆车的检验日期，常常躺在聊天记录里](articles/ARTICLE-006/article.md)，含[来源包](articles/ARTICLE-006/source-pack.md)、[提纲](articles/ARTICLE-006/outline.md)与[审稿记录](articles/ARTICLE-006/audit.md)。
 - 后续文章沿用 `articles/ARTICLE-NNN/` 目录结构。
+
+### 每周复盘
+
+- [第 1 周复盘（2026-09-04~09-09）](reviews/week-01-review.md)：发布数据、诊断与下周标题变量。
