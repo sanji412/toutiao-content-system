@@ -94,6 +94,7 @@
 - [ARTICLE-004：家里临时有事时，最难凑的往往不是钱](articles/ARTICLE-004/article.md)，含[来源包](articles/ARTICLE-004/source-pack.md)、[提纲](articles/ARTICLE-004/outline.md)与[审稿记录](articles/ARTICLE-004/audit.md)。
 - [ARTICLE-005：比完薪资和头衔，为什么没人比通勤？](articles/ARTICLE-005/article.md)，含[来源包](articles/ARTICLE-005/source-pack.md)、[提纲](articles/ARTICLE-005/outline.md)与[审稿记录](articles/ARTICLE-005/audit.md)。
 - [ARTICLE-006：家里那辆车的检验日期，常常躺在聊天记录里](articles/ARTICLE-006/article.md)，含[来源包](articles/ARTICLE-006/source-pack.md)、[提纲](articles/ARTICLE-006/outline.md)与[审稿记录](articles/ARTICLE-006/audit.md)。
+- [ARTICLE-007：人情账里最贵的不是礼金，是那句说不出口的话](articles/ARTICLE-007/article.md)，含[来源包](articles/ARTICLE-007/source-pack.md)、[提纲](articles/ARTICLE-007/outline.md)与[审稿记录](articles/ARTICLE-007/audit.md)。
 - 后续文章沿用 `articles/ARTICLE-NNN/` 目录结构。
 
 ### 每周复盘
